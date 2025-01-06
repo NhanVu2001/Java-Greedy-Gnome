@@ -1,11 +1,3 @@
-/*
-GROUP ASSIGNMENT IN COSC2658
-THE GREEDY GNOME - DYNAMIC VERSION
-GROUP 35 - MEMBERS:
-S3804651 - NGUYEN MINH VU
-S3810151 - VU THIEN NHAN
-S3818468 - TRAN TRUONG SON
- */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Objects;
